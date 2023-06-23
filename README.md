@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings! 👋
+
+### My name is Julianna, and I am an up-and-coming student developer.
+### I currently work in JavaScript, but I hope to also add C#.
+### If you'd like to know more about me, inquire about one of my three pets!
+### You may reach me at ironsjulianna@gmail.com at any time.
 
 <!--
 **JuliannaCynthia/JuliannaCynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
