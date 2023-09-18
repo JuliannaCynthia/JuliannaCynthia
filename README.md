@@ -1,8 +1,8 @@
 ### Greetings! 👋
 
 ### My name is Julianna, and I am an up-and-coming student developer.
-### I currently work in Java, but I hope to also add C#.
-### If you'd like to know more about me, inquire about one of my three pets!
+### I currently work in Java, SQL, HTML, CSS, and Javascript,
+### but my current obsession is with data!
 ### You may reach me at ironsjulianna@gmail.com at any time.
 
 <!--
