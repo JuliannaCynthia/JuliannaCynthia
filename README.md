@@ -1,9 +1,9 @@
-### Greetings! 👋
+### Hey! ✨
 
-### My name is Julianna, and I am an up-and-coming student developer.
-### I currently work in Java, SQL, HTML, CSS, and Javascript,
+### My name is Julianna, and I am a vocalist turned software developer.
+### I currently work in Java, SQL, HTML, CSS, Javascript, Vue.js, and Boostrap,
 ### but my current obsession is with data!
-### You may reach me at ironsjulianna@gmail.com at any time.
+### You may reach me at ironsjulianna@gmail.com at any time, for any questions or inquiries.
 
 <!--
 **JuliannaCynthia/JuliannaCynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
