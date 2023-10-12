@@ -5,7 +5,7 @@
  but my current obsession is with data!
  You may reach me at ironsjulianna@gmail.com at any time, for any questions or inquiries.
   
- ⚡Currently, I am entombed in a Data Management Cert! 
+ ⚡Currently, I am entombed in a Data Engineering Cert! 
  I am experiencing Python for the first time and gaining exposure to Hadoop, Hive, Spark,
  and many other services&tools!
 <!--
