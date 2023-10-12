@@ -1,10 +1,13 @@
-### Hey! ✨
+ Hey! ✨
 
-### My name is Julianna, and I am a vocalist turned software developer.
-### I currently work in Java, SQL, HTML, CSS, Javascript, Vue.js, and Boostrap,
-### but my current obsession is with data!
-### You may reach me at ironsjulianna@gmail.com at any time, for any questions or inquiries.
-
+ My name is Julianna, and I am a vocalist turned software developer.
+ I currently work in Java, SQL, HTML, CSS, Javascript, Vue.js, and Boostrap,
+ but my current obsession is with data!
+ You may reach me at ironsjulianna@gmail.com at any time, for any questions or inquiries.
+  
+ ⚡Currently, I am entombed in a Data Management Cert! 
+ I am experiencing Python for the first time and gaining exposure to Hadoop, Hive, Spark,
+ and many other services&tools!
 <!--
 **JuliannaCynthia/JuliannaCynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
