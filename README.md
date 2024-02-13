@@ -12,7 +12,8 @@
  I am experiencing Python for the first time and gaining exposure to Hadoop, Hive, Spark,
  and many other services&tools!
  
-### Reach out if you have any other reccomendations in services/tools/languages for a budding Data Nerd!💬
+ 
+## Reach out if you have any other reccomendations in services/tools/languages for a budding data nerd, or you want to talk choir and choral music!💬
 <!--
 **JuliannaCynthia/JuliannaCynthia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
